@@ -12,5 +12,5 @@ This repository contains two files:
 #### Warning.
 Accuracy is good when users are less than 5, decents for a dozen of accounts, but it drops down for larger sets of accounts. 
 
-#### Training set cardinality
+#### Training set cardinality.
 Unfortunately, SVM gets super slow when the number of training example is larger than 15000, so we randomly select about 10000 elements from the traning set.
