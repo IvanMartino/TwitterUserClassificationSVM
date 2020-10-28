@@ -1,4 +1,4 @@
-# TwitterUserClassificationSVM
+# Twitter User Classification via SVM
 Tweets Classification with SUPPORT VECTOR MACHINE. This is a quick and dirty script and it does what it should do.
 
 This repository contains two files:
